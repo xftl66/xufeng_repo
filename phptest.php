@@ -10,7 +10,7 @@
     <?php
        echo '123456';
        echo 'xintianjia';
-
+       echo 'zaitianjia';
        ?>
 </body>
 </html>
