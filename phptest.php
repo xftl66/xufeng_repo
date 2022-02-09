@@ -9,6 +9,7 @@
 <body>
     <?php
        echo '123456';
+       echo 'xintianjia';
 
        ?>
 </body>
