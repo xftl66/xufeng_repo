@@ -11,6 +11,8 @@
        echo '123456';
        echo 'xintianjia';
 
+
+       echo 'hello fenzhixiugai';
        ?>
 </body>
 </html>
