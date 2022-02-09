@@ -11,10 +11,7 @@
        echo '123456';
        echo 'xintianjia';
 
-<<<<<<< HEAD
-=======
        echo 'hello fenzhixiugai!';
->>>>>>> hotfix
        ?>
 </body>
 </html>
